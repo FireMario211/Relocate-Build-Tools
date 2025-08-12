@@ -1,3 +1,6 @@
+# 1.0.15
+- iOS rebuild
+
 # 1.0.14
 - iOS support
 
